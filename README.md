@@ -14,5 +14,3 @@ Vestibulum ullamcorper mollis congue. Donec congue ligula a ipsum sollicitudin p
     print('Hi Barbie!');
 }
 
-
-## codigo
